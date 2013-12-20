@@ -1,1 +1,5 @@
-First test.
+Prototype for a rover.
+
+Only handles one rover at a time, does not check to see if other rovers exist.
+
+Basic test cases only.
